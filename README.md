@@ -24,4 +24,6 @@ git clone https://github.com/Nalactax-XD404/SIMPLE
 
 cd SIMPLE
 
-python Run.py
+ls
+
+python Nazi.py
